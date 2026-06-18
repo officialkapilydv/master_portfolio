@@ -19,36 +19,32 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm a Software Developer who enjoys turning complex problems into
+              clean, reliable products. 🚀
               <br />
-              <br />I am good in languages like
+              <br />I work day to day across the stack with
               <i>
-                <b className="purple"> Python, Javascript, PHP and Drupal. </b>
+                <b className="purple"> React.js, Laravel, Drupal, PHP and JavaScript.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My focus is on architecting and shipping&nbsp;
               <i>
-                <b className="purple">Web Technologies </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Data Analysis.
-                </b>
+                <b className="purple">full-stack web applications</b> — from
+                headless CMS platforms and secure{" "}
+                <b className="purple">REST APIs</b> to enterprise-grade&nbsp;
+                <b className="purple">content management systems.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Drupal</b> and
+              I take pride in building end-to-end solutions — designing
+              <b className="purple"> optimized database schemas</b>, engineering
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> versioned, JWT-secured REST APIs</b>
               </i>
-              &nbsp; like
+              , and delivering polished, performant frontends with
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> React.js and Tailwind CSS.</b>
               </i>
             </p>
           </Col>
@@ -87,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/kapil-yadav-10118924a/"
+                  href="https://www.linkedin.com/in/kapilyadav6/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

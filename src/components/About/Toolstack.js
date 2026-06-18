@@ -3,18 +3,20 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiSlack,
+  SiDocker,
+  SiJenkins,
+  SiComposer,
+  SiPostman,
+  SiNpm,
 } from "react-icons/si";
 import {
   DiMysql,
   DiJira,
-  //DiAtlassian,
-  
 } from "react-icons/di";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
@@ -26,6 +28,21 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiSlack />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJenkins />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiComposer />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostman />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNpm />
       </Col>
     </Row>
   );

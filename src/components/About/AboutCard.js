@@ -8,16 +8,18 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Kapil Yadav </span>
-            from <span className="purple"> Haryana, India.</span>
+            Hi everyone, I'm <span className="purple">Kapil Yadav</span>, a
+            software developer based in <span className="purple">Haryana, India.</span>
             <br />
-            I am currently employed as a Software Engineer at BusyWizzy Technology Solutions Private Limited.
+            I currently work as a <span className="purple">Software Developer</span> at BusyWizzy Technology Solutions Pvt. Ltd., where I build full-stack products end to end.
             <br />
-            I have completed Master Of Computer Application from SGT University Gurgaon
-            .
+            I hold a Master of Computer Application (MCA) from SGT University, Gurgaon.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I specialize in designing and delivering <span className="purple">scalable full-stack web applications</span> — spanning headless CMS platforms, JWT-secured REST APIs, and enterprise-grade Drupal systems. My recent work brings together React + Laravel, Drupal 11, and production-deployed React apps with seamless third-party API integrations.
+            <br />
+            <br />
+            Beyond writing code, here are a few things I genuinely enjoy:
           </p>
           <ul>
             <li className="about-activity">
