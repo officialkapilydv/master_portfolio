@@ -32,7 +32,7 @@ Personal portfolio website for **Kapil Yadav**, a Full-Stack Software Engineer b
 - **Resume Viewer** — Embedded PDF resume with download option
 - **Fully Responsive** — Mobile-first design using React-Bootstrap
 - **Particle Backgrounds** — Animated canvas particles on key sections
-- **Social Links** — GitHub, LinkedIn, Twitter, Instagram
+- **Social Links** — GitHub, LinkedIn, Twitter, Gmail
 
 ---
 
@@ -141,7 +141,7 @@ Navigate to `src/components/` and edit the relevant component:
 [![GitHub](https://img.shields.io/badge/GitHub-officialkapilydv-black?logo=github)](https://github.com/officialkapilydv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kapil%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/kapil-yadav-10118924a/)
 [![Twitter](https://img.shields.io/badge/Twitter-kapilyadav-1DA1F2?logo=twitter)](https://twitter.com/kapilyadav)
-[![Instagram](https://img.shields.io/badge/Instagram-official__kapilydv-E4405F?logo=instagram)](https://www.instagram.com/official_kapilydv)
+[![Gmail](https://img.shields.io/badge/Gmail-kapilyadav2625-D14836?logo=gmail&logoColor=white)](mailto:kapilyadav2625@gmail.com)
 
 ---
 
