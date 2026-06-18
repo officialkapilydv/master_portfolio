@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Wizen — IT Services Corporate Website & CMS"
               description="A full-stack headless CMS and public-facing corporate website for an IT services company. Built with React 19 (SPA) and Laravel 12 (REST API + admin panel), featuring a custom admin panel for managing services, industries, solutions, blogs, case studies, pricing, gallery, and navigation menus — all exposed through a versioned REST API (/api/v1/). Includes scroll-spy navigation, Swiper.js hero sliders, React Helmet SEO management, slug-based routing, and 20+ database migrations."
-              demoLink="https://wizen.busywizzy.com/frontend/dist/"
+              demoLink="https://wizenglobal.com/"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Taxnomist — Tax Compliance Web App"
               description="A domain-specific tax compliance application for Indian chartered accountants to manage, generate, and export Form 15CB and Form 15CA Part C — official Income Tax Act documents for cross-border remittances. Built with Laravel 8, Bootstrap 5, and jQuery. Features include: PDF generation via wkhtmltopdf/dompdf, XML export for e-filing portal submission, multi-step Excel import pipeline, bulk ZIP download, RBAC with custom middleware, Spatie ActivityLog audit trail, and a normalized 15+ table relational schema."
-              demoLink="https://github.com/officialkapilydv"
+              demoLink="https://taxnomist.wizenglobal.com/admin"
             />
           </Col>
 
